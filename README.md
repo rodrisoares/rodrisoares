@@ -22,11 +22,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 
-## ⚡ GitHub Stats
-<a href="https://github.com/rodrisoares">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrisoares&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrisoares&layout=compact&langs_count=8&theme=merko"/>
 
+## ⚡ GitHub Stats
+<div>
+  <a href="https://github.com/rodrisoares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrisoares&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrisoares&layout=compact&langs_count=8&theme=merko"/>
+<div>
 
 <h3 align="left">Connect with me:</h3>
   <div>
