@@ -1,6 +1,5 @@
 <h1 align="justify">Hi 👋, I'm Rodrigo Soares!</h1>
-<h3 align="justify">Technologist in Systems Analysis and Development and Bachelor in Information Systems.
-Full Stack development student, passionate about programming, games and coffee.
+<h3 align="justify"> Front-End Developer, passionate about technology, games, and coffee.
 </h3> 
 
 
